@@ -166,6 +166,13 @@ export default function Home() {
                 <MapPin size={15} aria-hidden="true" />
                 Bangladesh
               </span>
+              
+              <span className="email">
+                Email: halimachowdhurymahina@gmail.com
+              </span>
+              <span className="phone">
+                Phone: +8801357196453
+              </span>
             </div>
           </div>
 
@@ -560,9 +567,10 @@ export default function Home() {
             </Link>
 
             <p className="footer-tagline">
-              Designed with intention.
-              <br />
-              Built with curiosity.
+             
+              Email:halimachowdhurymahina@gmail.com
+              <br/>
+              Phone: +8801357196453
             </p>
           </div>
 
